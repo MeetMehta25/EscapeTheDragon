@@ -31,3 +31,6 @@ Real-time collision detection for an engaging experience.
 Responsive and works on all modern browsers.
 Customizable difficulty (e.g., obstacle speed).
 
+Screenshot:
+![Screenshot 2025-01-27 222221](https://github.com/user-attachments/assets/0e1e1938-2a67-4946-b5e0-5466f4652bb1)
+
